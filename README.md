@@ -3,6 +3,8 @@
 本项目使用 **ADMET-AI** 对 100 个全新生成的类药分子进行药代动力学和毒性性质预测。
 
 ## 预测结果概览
+
+![100个分子结构图](molecules_structure.png)
 完整 104 项属性见 [random_100_admet_results.csv](random_100_admet_results.csv)。
 
 |   ID | SMILES                                       |   molecular_weight |   logP |   QED |   hERG |   AMES |   DILI |   Caco2_Wang |
