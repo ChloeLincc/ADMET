@@ -29,7 +29,7 @@
 
 **100个分子二维结构图（4x25）：**
 
-![100个分子结构图](molecules_structure.png?v=6)
+![100个分子结构图](molecules_structure.png?v=7)
 
 **分子核心性质分布图：**
 
