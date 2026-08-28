@@ -33,7 +33,7 @@
 
 **分子核心性质分布图：**
 
-![性质分布图](property_distribution.png)
+![性质分布图](enhanced_property_analysis.png)
 
 ## 📁 文件结构
 - `random_100_molecules.csv`：100 个分子的 SMILES 和 QED 打分。
